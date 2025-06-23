@@ -1,7 +1,7 @@
 # base64key
 very funny base64 encoder with key.
 
-Process
+Original Message
  → Substitution
  → XOR
  → Bitwise Rotate
